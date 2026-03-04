@@ -13,9 +13,9 @@ This is actually the first hardware project I've designed, and I had a lot of fu
 
 ## Images
 
-|Schematic|PCB|
-|-------|-------|
-|![Schematic]()|![PCB]()|
+|Schematic|PCB|Macropad|
+|-------|-------|-------|
+|![Schematic](schematic.png)|![PCB](pcb.png)|![Macropad](macropad.png)|
 
 ## Firmware
 
